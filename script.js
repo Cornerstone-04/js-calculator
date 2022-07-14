@@ -52,3 +52,9 @@ for (let button of controlButtons) {
 /*
 todo: add backspace functionality 
  */
+/*
+todo: if the last character on the display is a symbol and the user needs to replace it with another symbol
+ */
+/*
+fix: if the result is 0, the calculator stops functioning
+ */
